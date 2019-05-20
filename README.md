@@ -33,6 +33,10 @@
 - Adafruit sensor library (https://github.com/adafruit/DHT-sensor-library), enables the use of Adafruit sensors
 - Liquid crystal I2C (https://drive.google.com/file/d/1YrbTsh65E21nl6jVxyGqT97LK-3M9f61/view), allows connection with an LCD 
 
+####For further information on how to get, use and incorporate arduino libraries check the following link:
+https://www.arduino.cc/en/Guide/Libraries
+
+
 
 #### To run the sketches just open them with the Arduino IDE and run them on the microcontroller.
 
